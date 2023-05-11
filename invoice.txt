@@ -1,7 +1,0 @@
-SN: 2
-Name: xps
-Brand: dell
-Price: $$ 4000
-Quantity: 10
-Customer Name: Kiran Paudel
-Date: 2023-05-11 15:05:00

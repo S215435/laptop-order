@@ -1,0 +1,10 @@
+SN: 1
+Name: Razer Blade
+Brand: Razer
+Price: $2000
+Quantity: 300
+Customer Name: sahil bhatta
+Order Date: 2023-05-11 23:01:13.117655
+Total Amount Without Shipping: $600000.0
+Shipping Cost: $982
+Total Cost: $600982.0

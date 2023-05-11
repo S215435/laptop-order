@@ -1,0 +1,8 @@
+Distributor Name: distributor x
+Name: Razer Blade
+Brand: Razer
+Date of Purchase: 2023-05-11 23:01:07.296562
+Quantity: 600
+Net Amount: $1200000.0
+VAT: $156000.0
+Total Amount: $1356000.0

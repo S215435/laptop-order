@@ -1,3 +1,0 @@
-sn, name, brand, price, quantity, cpu, gpu
-1, Razer Blade, Razer, $ 2000, 20, i7 7th Gen, GTX 3060
-2, xps, dell, $ 4000, 30, i9 7th Gen, GTX 3800

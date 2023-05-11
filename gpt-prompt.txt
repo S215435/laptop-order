@@ -1,0 +1,30 @@
+create a program in python that does following (note: use python methods to break each usecase to make it neat):
+1. first load a text file named laptops.txt that contains following data:
+
+'sn', 'name', 'brand', 'price', 'quantity', 'cpu', 'gpu'
+
+The data is separated by a comma. Laptops records are on each new lines.
+
+Display the laptops details in console neatly (proper table with good alignments) and ask the user which laptop they wants to buy.
+
+2. user will enter the 'sn', the 'sn' entered must be something that exists in the laptops.txt file. If 'sn' doesnt exists, then print error msg and ask again.
+
+3. if the 'sn' entered is valid, then ask the 'quantity' of the laptops they wish to order. If the ordered laptop is higher then 'quantity' data from laptops.txt, then do following:
+
+create an invoice with following data:
+'distributor name' (ask user for this info), 'name' (must the same as the user placed an order for above), 'brand' (must the same as the user placed an order for above), 'date of purchase' (auto current date time), 'quantity' (total amoutn needed to fullfill customer request), 'net amount' (needed quantity * price), 'VAT' (13% of net amount), 'total amount' (vat + net amount)
+
+save the following data in a text file with name: 'restock_invoice'+distributor_name+brand+date_time (all lowercase)
+
+else ask for: 'customer name'.
+
+4. create a txt file with unique name (use 'invoice_' + customer_name + '_' + date_time to create the file name) (all lowercase) and 
+
+generate following data:
+
+'sn', 'name', 'brand', 'price', 'quantity', 'customer name', 'order date'(auto add current date time), 'total amount without shipping', 'shipping cost' (randomly generate, must be greater then 3,00 and less then 3,000), 'total cost' (total amount without shipping + shipping cost)
+
+
+save following info in the txt file:
+
+5. reduce the 'quantity' from laptops.txt

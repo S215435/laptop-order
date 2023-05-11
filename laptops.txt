@@ -1,0 +1,4 @@
+1,Razer Blade,Razer,2000,300,i7 7th Gen,GTX 3060
+2,zen book,google,1200,1,i9 8th Gen,GTX 3060
+3,Razer Blade,Razer,2000,20,i7 7th Gen,GTX 3060
+4,Razer Blade,Razer,2000,20,i7 7th Gen,GTX 3060

@@ -1,6 +1,0 @@
-write a code in python that does the following:
-1. Load a txt file that contains following data to the user console and ask which laptop they wants to buy, (data: sn, name, brand, price, quantity, cpu, gpu)
-2. ask the user which laptop they wants to order, quantity they want to order (if order amount is greater then currently avaiable quantity in stock then print message 'amount not in stock' )
-
-
-3. then create an invoice with following data and save it to a text file, the file must contain following; (data: sn, name, brand, customer_name (ask for input before saving to text file), current date and time (use python datetime to save current time)), 
